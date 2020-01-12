@@ -6,7 +6,7 @@
 4. Jika kita menginputkan T program akan mengeluarkan perintah masukan nama, nim, nilai tugas, nilai UTS, nilai UAS untuk menambahkan data
 ![tambah 1](https://user-images.githubusercontent.com/57046596/72215008-b2f78880-353f-11ea-9ac1-c6b90edcf7b8.png)
 
-5. Jika kita menginputkan L program akan menampilkan semua data yang kita inputkan. namun jika kita belum menginputkan data program akan menampilkan "data tidak ada")
+5. Jika kita menginputkan L program akan menampilkan semua data yang kita inputkan.
 ![hasil tambah 1](https://user-images.githubusercontent.com/57046596/72215056-7d9f6a80-3540-11ea-8676-3ee4cb9baf2f.png)
 
  namun jika kita belum menginputkan data program akan menampilkan "data tidak ada"
