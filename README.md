@@ -24,3 +24,5 @@
 9. Jika kita menginputkan k maka program akan berhenti atau keluar
 ![keluar 1](https://user-images.githubusercontent.com/57046596/72215141-a116e500-3541-11ea-8189-7d4952a464c7.png)
 
+
+
